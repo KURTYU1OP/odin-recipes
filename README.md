@@ -1,1 +1,1 @@
-# odin-recipes
+This will be the first project of the Odin Project course. This will be a recipe website using html applying the concepts that I learned in this course.
